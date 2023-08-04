@@ -1,0 +1,3 @@
+A simple web page design that has two alternating images when the image is clicked.
+Below the page we have an "input name" button. When clicked a pop up message comes up where you can insert your NAME.
+After inputing the name, the message "Have a nice day," automatically becomes personalized to the name added.
