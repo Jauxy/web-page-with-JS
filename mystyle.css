@@ -45,3 +45,20 @@ img {
     margin: 0 auto;
 
 }
+
+
+button {
+    display: flex;
+    padding: 1rem 2rem;
+    margin: auto;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 1rem;
+    
+}
+.btn:hover {
+    background-color: #27fff8;
+    color: rgb(174, 174, 127);
+    box-shadow: 3px 3px 1px rgb(117, 113, 113);
+    
+}
